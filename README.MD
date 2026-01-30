@@ -5,13 +5,13 @@ This repository contains my iOS learning journey with daily projects and exercis
 ---
 
 ## 📅 Daily Progress
-
-### Day 01
-A foundational SwiftUI project demonstrating basic app structure and UI components.
-
 **Screenshot:**
 
+### Day 01
 <img src="./screenshot/day-01.png" width="300" height="600" alt="Day 01 Screenshot"/>
+
+### Day 02
+<img src="./screenshot/day-02.png" width="300" height="600" alt="Day 02 Screenshot"/>
 
 
 ---
