@@ -11,7 +11,8 @@ A foundational SwiftUI project demonstrating basic app structure and UI componen
 
 **Screenshot:**
 
-![Day 01](./screenshot/day-01.png)
+<img src="./screenshot/day-01.png" width="300" height="600" alt="Day 01 Screenshot"/>
+
 
 ---
 
